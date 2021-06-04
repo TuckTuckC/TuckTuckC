@@ -16,18 +16,18 @@
 
 ### Languages and Tools:
 
-JavaScript
-HTML
-CSS
-Bootstrap
-React.js
-jQuery
-Node.js
-Express
-Python
-Django
-API's
-PostgreSQL
+- JavaScript
+- HTML
+- CSS
+- Bootstrap
+- React.js
+- jQuery
+- Node.js
+- Express
+- Python
+- Django
+- API's
+- PostgreSQL
 
 
 <br />
