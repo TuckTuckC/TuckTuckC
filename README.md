@@ -1,8 +1,8 @@
 ### Hi there, I'm Tucker - aka [TuckTuckC][website] 👋
 
-## I'm a Full-Stack Software Developer, Gymnast, and Skater
+## I'm a Full-Stack Software Developer
 
-- 🔭 I decided to attend a coding bootcamp in 2020 and have been loving development ever since!
+- 🔭 I decided to attend a coding bootcamp in 2020 and have been in love ever since!
 - 🌱 I’m currently learning everything 🤣
 - ⚡ Fun fact: I love gymnastics, roller skating and music
 
