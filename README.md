@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a Full-Stack Software Developer with a passion
 
 ### What I Like
 
-🌱 I am fascinated by the complex mathematical operations that some applications utilize, and I thoroughly enjoy solving problems that involve heavy calculation and careful thinking. I am particularly interested in astrophysical computation and hope to one day contribute to such a project.
+🌱 As a software developer, I am fascinated by the endless possibilities of technology and the challenge of solving complex problems. I am particularly interested in the intersection of software technologies and mathematics, such as astrophysical computation, and I'm always looking for ways to apply my analytical skills to exciting projects in these areas. My goal is to contribute to innovative solutions that make a meaningful impact on people's lives.
 
 ### Connect with me
 
