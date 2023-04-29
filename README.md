@@ -2,7 +2,7 @@ Here's a new README for your GitHub profile:
 
 ## Hello, I'm Tucker - aka [TuckTuckC][website] 👋
 
-### Full-Stack Software Developer | Mathematics Enthusiast
+### Full-Stack Software Developer
 
 Welcome to my GitHub profile! I'm a Full-Stack Software Developer with a passion for creating clean, efficient, and user-friendly web applications. Since attending a coding bootcamp in 2020, I've been on an exciting journey of learning and discovering new technologies.
 
