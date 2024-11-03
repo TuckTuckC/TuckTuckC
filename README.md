@@ -1,5 +1,3 @@
-Here's a new README for your GitHub profile:
-
 ## Hello, I'm Tucker - aka [TuckTuckC][website] 👋
 
 ### Full-Stack Software Developer
